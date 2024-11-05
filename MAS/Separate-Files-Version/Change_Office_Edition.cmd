@@ -421,7 +421,7 @@ echo:
 echo:
 echo         ____________________________________________________________
 echo:
-echo                 [1] Change - Office Edition
+echo                 [1] Change - Office Edition john
 echo                 [2] Add    - Office Edition
 echo                 [3] Remove - Office Edition
 echo                 ____________________________________________
